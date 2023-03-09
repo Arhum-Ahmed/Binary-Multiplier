@@ -6,7 +6,7 @@ module TB;
     logic load, clk, reset;
     logic [9:0] mul_out = 0, ans;
 
-    int DURATION = 100, i;
+    int DURATION = 10000, i;
 
 
     main DUT (op_a, op_b, load, clk, reset, mul_out);
