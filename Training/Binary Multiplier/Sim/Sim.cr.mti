@@ -1,0 +1,86 @@
+{C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/reg_in.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/reg_in.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module reg_in
+
+Top level modules:
+	reg_in
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/ctrl.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/ctrl.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/mux21.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/mux21.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module mux21
+
+Top level modules:
+	mux21
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/USE.sv} {2 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/USE.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module USE
+** Warning: C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/USE.sv(6): (vlog-2121) Illegal concatenation of an unsized constant. Will treat it as a 32-bit value.
+
+Top level modules:
+	USE
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/comp.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/comp.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module comp
+
+Top level modules:
+	comp
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/ls.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/ls.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module ls
+
+Top level modules:
+	ls
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/counter.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/counter.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/mux51.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/mux51.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module mux51
+
+Top level modules:
+	mux51
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/TB/TB.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/TB/TB.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/main.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/main.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module main
+
+Top level modules:
+	main
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/reg_out.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/reg_out.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module reg_out
+
+Top level modules:
+	reg_out
+
+} {} {}} {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/adder.sv} {1 {vlog -work work -vopt -sv -stats=none {C:/Users/Arhum/Desktop/FYP/Training/Sequential Multiplier/RTL/adder.sv}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}
